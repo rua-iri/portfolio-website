@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+
+
+.notice {
+    background-color: white;
+    align-self: center;
+    opacity: 100%;
+}
