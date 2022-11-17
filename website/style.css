@@ -2,11 +2,20 @@
     margin: 0;
 }
 
+.profile-header {
+    display: flex;
+}
 
-.notice {
-    background-color: white;
-    align-self: center;
-    opacity: 100%;
+.profile-text {
+    font-size: 300px;
+}
+
+.profile-spacing {
+    width: 50%;
+}
+
+.profile-photo {
+    max-width: 200px;
 }
 
 .temporary-image {
