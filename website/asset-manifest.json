@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.7958f381.css",
-    "main.js": "./static/js/main.7605de34.js",
+    "main.css": "./static/css/main.772966eb.css",
+    "main.js": "./static/js/main.583478d7.js",
     "static/media/HeroImage.png": "./static/media/HeroImage.442877829c4bb6e59ea9.png",
     "static/media/MySQL.png": "./static/media/MySQL.3c59322fa13f5ec643cb.png",
     "static/media/Linux.png": "./static/media/Linux.2471a7083a54eca9f12a.png",
@@ -10,19 +10,22 @@
     "static/media/PHP.png": "./static/media/PHP.4990580e9b615aeebb1f.png",
     "static/media/NodeJS.png": "./static/media/NodeJS.c6649cb118c1ede849ad.png",
     "static/media/HtmlCss.png": "./static/media/HtmlCss.e4da6f32d22cee9c63f9.png",
+    "static/media/github.png": "./static/media/github.009feea5a6e1bb3d6fba.png",
     "static/media/CPlusPlus.png": "./static/media/CPlusPlus.93ba055912b94fb81081.png",
     "static/media/SvBasicManual.ttf": "./static/media/SvBasicManual.287d42c55d446e3705bc.ttf",
     "static/media/ReactJS.png": "./static/media/ReactJS.44319306359c7112276d.png",
     "static/media/Python.png": "./static/media/Python.82ab0bdb7e21c02fbe36.png",
     "static/media/code.jpeg": "./static/media/code.4f98ecac013fb699dd80.jpeg",
+    "static/media/email.png": "./static/media/email.e2df192edafe5cecd05b.png",
     "static/media/Bash.png": "./static/media/Bash.c9071c1c77a68118bacc.png",
+    "static/media/linkedin.png": "./static/media/linkedin.e7a0a7ab1d5c260f4a15.png",
     "static/media/JavaScript.png": "./static/media/JavaScript.266bd9fb2663dcc057b4.png",
     "index.html": "./index.html",
-    "main.7958f381.css.map": "./static/css/main.7958f381.css.map",
-    "main.7605de34.js.map": "./static/js/main.7605de34.js.map"
+    "main.772966eb.css.map": "./static/css/main.772966eb.css.map",
+    "main.583478d7.js.map": "./static/js/main.583478d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7958f381.css",
-    "static/js/main.7605de34.js"
+    "static/css/main.772966eb.css",
+    "static/js/main.583478d7.js"
   ]
 }
