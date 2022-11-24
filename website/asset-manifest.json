@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.d1e1a573.css",
-    "main.js": "./static/js/main.950d7527.js",
+    "main.js": "./static/js/main.70f6b6c8.js",
     "static/media/jarvis-assistant.jpg": "./static/media/jarvis-assistant.ab88e3f5d5a90c2d2d0a.jpg",
     "static/media/artemis-board.jpeg": "./static/media/artemis-board.07d2206dae03004800f2.jpeg",
     "static/media/bingespark.png": "./static/media/bingespark.6d040cc0ffb69b14794b.png",
@@ -26,10 +26,10 @@
     "static/media/JavaScript.png": "./static/media/JavaScript.266bd9fb2663dcc057b4.png",
     "index.html": "./index.html",
     "main.d1e1a573.css.map": "./static/css/main.d1e1a573.css.map",
-    "main.950d7527.js.map": "./static/js/main.950d7527.js.map"
+    "main.70f6b6c8.js.map": "./static/js/main.70f6b6c8.js.map"
   },
   "entrypoints": [
     "static/css/main.d1e1a573.css",
-    "static/js/main.950d7527.js"
+    "static/js/main.70f6b6c8.js"
   ]
 }
