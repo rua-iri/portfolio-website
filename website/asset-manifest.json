@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.d1e1a573.css",
-    "main.js": "./static/js/main.0c8c5e90.js",
+    "main.css": "./static/css/main.6ac436dc.css",
+    "main.js": "./static/js/main.ac43cf03.js",
     "static/media/jarvis-assistant.jpg": "./static/media/jarvis-assistant.ab88e3f5d5a90c2d2d0a.jpg",
-    "static/media/artemis-board.jpeg": "./static/media/artemis-board.07d2206dae03004800f2.jpeg",
-    "static/media/bingespark.png": "./static/media/bingespark.6d040cc0ffb69b14794b.png",
     "static/media/snake_game.jpg": "./static/media/snake_game.03bc8e0c5e4f9f3af3b7.jpg",
+    "static/media/bingespark.png": "./static/media/bingespark.a37df13df5d2d7b50cb8.png",
     "static/media/HeroImage.png": "./static/media/HeroImage.442877829c4bb6e59ea9.png",
-    "static/media/oldnews.png": "./static/media/oldnews.7bdc0fff53f85345dce2.png",
+    "static/media/artemis-board.jpeg": "./static/media/artemis-board.13d7cf1a14a2ee263384.jpeg",
     "static/media/MySQL.png": "./static/media/MySQL.3c59322fa13f5ec643cb.png",
+    "static/media/quranapi.png": "./static/media/quranapi.1fe72f79e11f0f9499af.png",
+    "static/media/oldnews.png": "./static/media/oldnews.4cd6e03413e0f78b89ce.png",
     "static/media/Linux.png": "./static/media/Linux.2471a7083a54eca9f12a.png",
     "static/media/Java.png": "./static/media/Java.a6c04d799c4255fb0579.png",
     "static/media/AWS.png": "./static/media/AWS.84d24e4e1708dc95aacf.png",
     "static/media/PHP.png": "./static/media/PHP.4990580e9b615aeebb1f.png",
+    "static/media/SpringBoot.png": "./static/media/SpringBoot.ca9ff463311635fc7bc6.png",
     "static/media/NodeJS.png": "./static/media/NodeJS.c6649cb118c1ede849ad.png",
     "static/media/HtmlCss.png": "./static/media/HtmlCss.e4da6f32d22cee9c63f9.png",
     "static/media/github.png": "./static/media/github.009feea5a6e1bb3d6fba.png",
@@ -20,17 +22,16 @@
     "static/media/SvBasicManual.ttf": "./static/media/SvBasicManual.287d42c55d446e3705bc.ttf",
     "static/media/ReactJS.png": "./static/media/ReactJS.44319306359c7112276d.png",
     "static/media/Python.png": "./static/media/Python.82ab0bdb7e21c02fbe36.png",
-    "static/media/code.jpeg": "./static/media/code.4f98ecac013fb699dd80.jpeg",
     "static/media/email.png": "./static/media/email.e2df192edafe5cecd05b.png",
     "static/media/Bash.png": "./static/media/Bash.c9071c1c77a68118bacc.png",
     "static/media/linkedin.png": "./static/media/linkedin.e7a0a7ab1d5c260f4a15.png",
     "static/media/JavaScript.png": "./static/media/JavaScript.266bd9fb2663dcc057b4.png",
     "index.html": "./index.html",
-    "main.d1e1a573.css.map": "./static/css/main.d1e1a573.css.map",
-    "main.0c8c5e90.js.map": "./static/js/main.0c8c5e90.js.map"
+    "main.6ac436dc.css.map": "./static/css/main.6ac436dc.css.map",
+    "main.ac43cf03.js.map": "./static/js/main.ac43cf03.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1e1a573.css",
-    "static/js/main.0c8c5e90.js"
+    "static/css/main.6ac436dc.css",
+    "static/js/main.ac43cf03.js"
   ]
 }
