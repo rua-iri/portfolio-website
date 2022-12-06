@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.6ac436dc.css",
-    "main.js": "./static/js/main.ac43cf03.js",
+    "main.css": "./static/css/main.4d432047.css",
+    "main.js": "./static/js/main.a3c679bf.js",
     "static/media/jarvis-assistant.jpg": "./static/media/jarvis-assistant.ab88e3f5d5a90c2d2d0a.jpg",
     "static/media/snake_game.jpg": "./static/media/snake_game.03bc8e0c5e4f9f3af3b7.jpg",
     "static/media/bingespark.png": "./static/media/bingespark.a37df13df5d2d7b50cb8.png",
     "static/media/HeroImage.png": "./static/media/HeroImage.442877829c4bb6e59ea9.png",
     "static/media/artemis-board.jpeg": "./static/media/artemis-board.13d7cf1a14a2ee263384.jpeg",
+    "static/media/yt-frontend.png": "./static/media/yt-frontend.d4dd8154693b71d15a94.png",
     "static/media/MySQL.png": "./static/media/MySQL.3c59322fa13f5ec643cb.png",
     "static/media/quranapi.png": "./static/media/quranapi.1fe72f79e11f0f9499af.png",
     "static/media/oldnews.png": "./static/media/oldnews.4cd6e03413e0f78b89ce.png",
@@ -27,11 +28,11 @@
     "static/media/linkedin.png": "./static/media/linkedin.e7a0a7ab1d5c260f4a15.png",
     "static/media/JavaScript.png": "./static/media/JavaScript.266bd9fb2663dcc057b4.png",
     "index.html": "./index.html",
-    "main.6ac436dc.css.map": "./static/css/main.6ac436dc.css.map",
-    "main.ac43cf03.js.map": "./static/js/main.ac43cf03.js.map"
+    "main.4d432047.css.map": "./static/css/main.4d432047.css.map",
+    "main.a3c679bf.js.map": "./static/js/main.a3c679bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ac436dc.css",
-    "static/js/main.ac43cf03.js"
+    "static/css/main.4d432047.css",
+    "static/js/main.a3c679bf.js"
   ]
 }
