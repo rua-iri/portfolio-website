@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.4d432047.css",
-    "main.js": "./static/js/main.a3c679bf.js",
+    "main.js": "./static/js/main.d206b73e.js",
     "static/media/jarvis-assistant.jpg": "./static/media/jarvis-assistant.ab88e3f5d5a90c2d2d0a.jpg",
     "static/media/snake_game.jpg": "./static/media/snake_game.03bc8e0c5e4f9f3af3b7.jpg",
     "static/media/bingespark.png": "./static/media/bingespark.a37df13df5d2d7b50cb8.png",
@@ -29,10 +29,10 @@
     "static/media/JavaScript.png": "./static/media/JavaScript.266bd9fb2663dcc057b4.png",
     "index.html": "./index.html",
     "main.4d432047.css.map": "./static/css/main.4d432047.css.map",
-    "main.a3c679bf.js.map": "./static/js/main.a3c679bf.js.map"
+    "main.d206b73e.js.map": "./static/js/main.d206b73e.js.map"
   },
   "entrypoints": [
     "static/css/main.4d432047.css",
-    "static/js/main.a3c679bf.js"
+    "static/js/main.d206b73e.js"
   ]
 }
